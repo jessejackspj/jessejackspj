@@ -1,206 +1,237 @@
-# 👋 Hi, I'm Jesse Jacks PJ
 
-### Electronics & Communication Engineer | Embedded Systems & IoT Developer | Technology Entrepreneur
+<!-- ═══════════════ FUTURISTIC PROFILE HEADER ═══════════════ -->
 
-I am a final-year **Electronics and Communication Engineering (ECE)** student passionate about developing intelligent hardware systems, embedded applications, IoT solutions, and industrial automation technologies.
+<div align="center">
 
-Currently serving as the **Chief Operating Officer (COO) at Synaptronix Systems Pvt. Ltd.**, I contribute to operational coordination, project execution, technical collaboration, and product development. I am also involved in developing the **Synaptronix Technical Excellence Program (STEP)**, an industry-oriented initiative designed to bridge academic learning with practical engineering experience.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,40:0F172A,75:164E63,100:7C3AED&text=JESSE%20JACKS%20PJ&fontSize=46&fontColor=67E8F9&fontAlignY=38&desc=EMBEDDED%20SYSTEMS%20%7C%20IoT%20%7C%20HARDWARE%20ENGINEERING&descAlignY=58&descSize=15&animation=fadeIn" />
 
-My focus is on transforming engineering concepts into functional prototypes and practical solutions that address real-world industrial and societal challenges.
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=Electronics+%26+Communication+Engineer;Embedded+Systems+%26+IoT+Developer;PCB+Design+%26+Hardware+Prototyping;COO+%40+Synaptronix+Systems+Pvt.+Ltd.;Building+Technology+for+Real-World+Impact" alt="Animated professional introduction" />
+</a>
 
----
+<br/>
 
-## 🚀 Professional Overview
+<img src="https://img.shields.io/badge/ROLE-TECHNOLOGY%20ENTHUSIAST-0891B2?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/FOCUS-EMBEDDED%20%26%20IoT-7C3AED?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/STATUS-ENGINEERING%20%26%20INNOVATION-0F766E?style=for-the-badge&labelColor=020617" />
 
-- 🎓 **Education:** B.E. Electronics and Communication Engineering (2023–2027)
-- 💼 **Current Role:** Chief Operating Officer — Synaptronix Systems Pvt. Ltd.
-- 🔌 **Technical Focus:** Embedded Systems, IoT, Microcontroller Programming, and PCB Design
-- 🏭 **Engineering Interests:** Industrial Automation, Hardware Development, and Intelligent Monitoring Systems
-- 🛠️ **Development Approach:** System Design → Hardware Integration → Firmware Development → Testing → Product Development
-- 🌱 **Long-Term Goal:** To grow as an Embedded Systems Engineer and technology leader, developing innovative intelligent products and connected systems.
+</div>
 
 ---
 
-## 🧑‍💻 Technical Skills & Competencies
+## `01` // SYSTEM PROFILE
 
-### Embedded Systems & Firmware
+```text
+NAME       : JESSE JACKS PJ
+DISCIPLINE : ELECTRONICS & COMMUNICATION ENGINEERING
+IDENTITY   : EMBEDDED SYSTEMS DEVELOPER | TECHNOLOGY ENTREPRENEUR
+POSITION   : COO — SYNAPTRONIX SYSTEMS PVT. LTD.
+EDUCATION  : B.E. ECE | 2023–2027
+MISSION    : ENGINEER INTELLIGENT, REAL-WORLD SOLUTIONS
+```
 
-![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+I am a final-year Electronics and Communication Engineering student focused on building practical technology solutions at the intersection of **embedded systems, IoT, electronics hardware, and intelligent automation**.
 
-- Embedded C programming
-- Microcontroller development using ESP32 and STM32
-- Sensor interfacing and hardware–software integration
-- Real-time monitoring and control systems
-- Embedded application development
+As COO and a founding team member of **Synaptronix Systems Pvt. Ltd.**, I contribute to operational coordination, project execution, and product development. I am also involved in developing the **Synaptronix Technical Excellence Program (STEP)** to bridge academic learning with hands-on engineering.
 
-### Electronics & Hardware Engineering
-
-![PCB Design](https://img.shields.io/badge/PCB_Design-00897B?style=for-the-badge)
-![Circuit Development](https://img.shields.io/badge/Circuit_Development-455A64?style=for-the-badge)
-
-- Electronic circuit development and schematic design
-- PCB design and hardware prototyping
-- Sensor integration and interfacing
-- Hardware testing, troubleshooting, and validation
-- Embedded hardware architecture
-
-### Internet of Things & Automation
-
-![IoT](https://img.shields.io/badge/Internet_of_Things-1565C0?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Industrial_Automation-6A1B9A?style=for-the-badge)
-
-- IoT-enabled monitoring and control systems
-- Real-time data monitoring and remote supervision
-- Intelligent automation and sensor-based systems
-- Environmental and safety monitoring
-- Connected-device development and system integration
-
-### Professional & Leadership Skills
-
-- Operational coordination and project execution
-- Technical team collaboration
-- Engineering problem-solving and analytical thinking
-- Decision-making and communication
-- Product development and continuous learning
+My approach combines hardware design, firmware development, sensor integration, system testing, and product-oriented thinking.
 
 ---
 
-## 🏢 Professional Experience
+## `02` // ENGINEERING STACK
 
-### Chief Operating Officer (COO)
-**Synaptronix Systems Pvt. Ltd.** | 2026 – Present
+<div align="center">
 
-As a founding team member of a student-led technology startup, I contribute to operational management and the execution of technology-driven engineering initiatives.
+### EMBEDDED SYSTEMS & FIRMWARE
 
-**Key responsibilities**
-- Coordinate operations and project execution with the leadership team.
-- Contribute to engineering project planning and product development.
-- Support technical coordination and the implementation of innovative solutions.
-- Participate in developing STEP, an industry-oriented technical learning and internship initiative.
-- Contribute to transforming an innovative student project into a technology-driven startup.
+<img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi&theme=dark" />
 
-### Embedded Systems & IoT Intern
-**Technologics Global Pvt. Ltd., Bengaluru** | June 2026 – July 2026
+### HARDWARE · IoT · SYSTEM DESIGN
 
-Completed an industry internship focused on embedded technologies and IoT applications.
+<img src="https://img.shields.io/badge/ESP32-Microcontrollers-323330?style=for-the-badge&logo=espressif&logoColor=E7352C" />
+<img src="https://img.shields.io/badge/STM32-Embedded%20Development-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+<img src="https://img.shields.io/badge/PCB-Circuit%20Design-0F766E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IoT-Connected%20Systems-0369A1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-Intelligent%20Control-6D28D9?style=for-the-badge" />
 
-- Gained practical exposure to Embedded C programming.
-- Worked with microcontroller programming concepts and sensor interfacing.
-- Developed an understanding of embedded system development workflows.
-- Explored real-time IoT applications and hardware–software integration.
+</div>
 
-### Industrial Trainee — Telecommunication & Communication Systems
-**NLC India Limited (NLCIL), Neyveli** | June 2025 – July 2025
+**Core competencies**
 
-- Completed industrial training in communication technologies.
-- Gained exposure to large-scale industrial networking and communication infrastructure.
-
----
-
-## 🔬 Engineering Projects
-
-My project work focuses on combining embedded hardware, sensing technologies, automation, and connected systems to solve practical engineering problems.
-
-### 1. AgriDry Pro — Smart Crop Drying System
-**Domain:** Embedded Systems · IoT · Agricultural Automation
-
-Designed and developed an IoT-enabled crop drying solution that monitors temperature, humidity, and airflow while automating the drying process.
-
-- Monitors key environmental parameters during crop drying.
-- Integrates sensing and automated process control.
-- Aims to improve drying efficiency, preserve product quality, and reduce energy consumption.
-
-### 2. Adaptive Smart Curtain Automation System (ASCAS)
-**Domain:** Smart Automation · Sensor Integration · IoT
-
-Developed an intelligent curtain automation system that responds to ambient light conditions.
-
-- Automatically adjusts curtain positioning based on light intensity.
-- Supports manual control through an IoT interface.
-- Integrates sensing, actuation, and user control.
-
-### 3. Smart Water Level Monitoring & Control System
-**Domain:** Embedded Systems · Water Management · Automation
-
-Designed an automated water management solution for monitoring tank levels and controlling water pumps.
-
-- Provides real-time water-level monitoring.
-- Automates pump operation based on water-level conditions.
-- Aims to prevent tank overflow and pump dry-running conditions.
-
-### 4. SecureSense — IoT Border Intrusion Detection Platform
-**Domain:** IoT · Security Systems · Sensor-Based Monitoring
-
-Designed an IoT-based intrusion detection solution for identifying unauthorized entry.
-
-- Uses sensor-based monitoring to detect intrusion.
-- Provides instant alerts to support timely response.
-- Focuses on improved surveillance and security monitoring.
-
-### 5. Med Track — RTOS-Based Medical Monitoring System
-**Domain:** Embedded Systems · Real-Time Operating Systems · Healthcare
-
-Designed an RTOS-based healthcare monitoring system for handling multiple health parameters.
-
-- Supports simultaneous monitoring of multiple parameters.
-- Focuses on deterministic task scheduling.
-- Incorporates reliable alert-generation concepts.
-
-### 6. DiaSafe — Smart Diabetes Monitoring & Alert System
-**Domain:** Healthcare Technology · IoT · Remote Monitoring
-
-Developed an intelligent healthcare monitoring concept for tracking glucose-related information.
-
-- Supports remote monitoring and data logging.
-- Incorporates automated alerts for abnormal conditions.
-- Focuses on connected healthcare monitoring.
-
-### 7. Multimodal Gas Detection & Intelligent Monitoring System
-**Domain:** Industrial IoT · Gas Detection · Environmental Safety
-
-Designed and developed an IoT-enabled gas detection and monitoring system for industrial facilities, hospitals, laboratories, and public environments.
-
-- Integrates multiple gas sensors to monitor hazardous gas concentrations.
-- Supports continuous environmental monitoring and instant alerts.
-- Enables remote supervision and centralized monitoring.
-- Aims to improve workplace safety, reduce operational risks, and support preventive maintenance.
+- Embedded C and microcontroller programming
+- ESP32 and STM32 development
+- PCB design, circuit development, and hardware prototyping
+- Sensor integration and hardware–software interfacing
+- IoT-based monitoring and control
+- Industrial automation and intelligent sensing
+- Real-time monitoring systems
+- Engineering project coordination and product development
 
 ---
 
-## 🏅 Certifications
+## `03` // FEATURED ENGINEERING PROJECTS
 
-- **Embedded Systems** — Technologics Global Pvt. Ltd.
-- **IoT Hardware Analyst** — NCVET Certified
-- **PCB Design Certification**
-- **Telecommunication Networking** — NLC India Limited
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 AgriDry Pro
+
+**Smart Crop Drying System**
+
+IoT-enabled agricultural solution for monitoring temperature, humidity, and airflow while automating the crop drying process.
+
+`IoT` `Sensors` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 ASCAS
+
+**Adaptive Smart Curtain Automation**
+
+An intelligent curtain system that adjusts according to ambient light and supports manual control through an IoT interface.
+
+`Embedded Systems` `Sensors` `IoT`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💧 Smart Water Management
+
+**Water Level Monitoring & Control**
+
+Automated tank monitoring and pump control designed to prevent overflow and dry-running conditions.
+
+`Monitoring` `Control Systems` `IoT`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ SecureSense
+
+**IoT Border Intrusion Detection**
+
+Sensor-based intrusion monitoring with instant alerts for improved security and surveillance.
+
+`IoT` `Security` `Sensors`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Med Track
+
+**RTOS-Based Medical Monitoring**
+
+A real-time monitoring concept designed for multiple health parameters, task scheduling, and alert generation.
+
+`RTOS` `Embedded Systems` `Healthcare`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 DiaSafe
+
+**Smart Diabetes Monitoring**
+
+A connected healthcare monitoring concept supporting glucose-related information, data logging, and abnormal-condition alerts.
+
+`Healthcare IoT` `Monitoring` `Alerts`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### ⚠️ Multimodal Gas Detection & Intelligent Monitoring
+
+An IoT-enabled environmental safety solution using multiple gas sensors, continuous monitoring, and alerting for industrial and public environments.
+
+`Industrial IoT` `Gas Detection` `Safety Systems`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎓 Education
+## `04` // PROFESSIONAL EXPERIENCE
 
-**Bachelor of Engineering — Electronics and Communication Engineering**  
-Jansons Institute of Technology | 2023 – 2027
+**CHIEF OPERATING OFFICER — SYNAPTRONIX SYSTEMS PVT. LTD.**  
+`2026 — PRESENT`
 
-**Higher Secondary Education**  
-Stanes School CBSE | 2021 – 2023
+- Operational coordination and project execution.
+- Engineering product development and technical collaboration.
+- Participation in startup initiatives and development of STEP.
+
+**EMBEDDED SYSTEMS & IoT INTERN — TECHNOLOGICS GLOBAL PVT. LTD.**  
+`JUNE 2026 — JULY 2026`
+
+- Embedded C and microcontroller programming exposure.
+- Sensor interfacing and IoT application development.
+
+**INDUSTRIAL TRAINEE — NLC INDIA LIMITED**  
+`JUNE 2025 — JULY 2025`
+
+- Industrial communication technologies.
+- Large-scale networking and communication infrastructure.
 
 ---
 
-## 🌐 Connect With Me
+## `05` // CERTIFICATIONS
 
-I am interested in connecting with engineers, technology professionals, researchers, and organizations working in embedded technologies, IoT, industrial automation, and product development.
+<img src="https://img.shields.io/badge/Embedded%20Systems-Technologics%20Global-0891B2?style=flat-square" />
 
-- 📧 **Email:** [jessejackspj@gmail.com](mailto:jessejackspj@gmail.com)
-- 💼 **LinkedIn:** [Jesse Jacks PJ](https://linkedin.com/in/jesse-jacks)
+<img src="https://img.shields.io/badge/IoT%20Hardware%20Analyst-NCVET%20Certified-7C3AED?style=flat-square" />
+
+<img src="https://img.shields.io/badge/PCB%20Design-Certification-0F766E?style=flat-square" />
+
+<img src="https://img.shields.io/badge/Telecommunication%20Networking-NLC%20India-334155?style=flat-square" />
 
 ---
 
-## 💡 Engineering Philosophy
+## `06` // GITHUB TELEMETRY
 
-> Engineering is not just about designing technology; it is about building practical solutions that solve real problems, improve efficiency, and create meaningful impact.
+<div align="center">
 
-I believe in continuous learning, hands-on experimentation, collaborative development, and turning innovative ideas into functional engineering solutions.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jessejackspj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" />
 
-**Learn. Design. Build. Innovate.**
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessejackspj&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=CBD5E1" />
+
+<br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=jessejackspj&theme=tokyonight&hide_border=true&background=020617&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" />
+
+</div>
+
+---
+
+## `07` // CONNECT TO MY NETWORK
+
+<div align="center">
+
+<a href="https://linkedin.com/in/jesse-jacks">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:jessejackspj@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/jessejackspj">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### `LEARN // DESIGN // BUILD // INNOVATE`
+
+*Engineering ideas into practical technology.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:164E63,100:020617&height=110&section=footer" />
+
+</div>
