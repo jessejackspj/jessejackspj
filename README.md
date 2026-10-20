@@ -1,94 +1,139 @@
 
 <div align="center">
 
-<img src="assets/header-banner.png" width="100%" alt="Jesse Jacks PJ — Embedded Systems Portfolio"/>
+<!-- CUSTOM HERO BANNER: upload your banner to assets/hero-banner.png -->
+
+<img src="./assets/hero-banner.png" width="100%" alt="Jesse Jacks PJ — Embedded Systems and Engineering Portfolio">
+
+<br>
 
 # JESSE JACKS PJ
 
-### EMBEDDED SYSTEMS ENGINEER · IoT DEVELOPER · TECHNOLOGY LEADER
+### Electronics & Communication Engineering | Embedded Systems | IoT | PCB Design
 
-*Engineering intelligent systems. Building meaningful technology.*
+<p>
+  <img src="https://img.shields.io/badge/EMBEDDED_SYSTEMS-00C8FF?style=flat-square&labelColor=080D16" alt="Embedded Systems">
+  <img src="https://img.shields.io/badge/IoT-00C8FF?style=flat-square&labelColor=080D16" alt="IoT">
+  <img src="https://img.shields.io/badge/PCB_DESIGN-00C8FF?style=flat-square&labelColor=080D16" alt="PCB Design">
+  <img src="https://img.shields.io/badge/INDUSTRIAL_AUTOMATION-00C8FF?style=flat-square&labelColor=080D16" alt="Industrial Automation">
+</p>
 
-<a href="mailto:jessejackspj@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-080D14?style=for-the-badge&logo=gmail&logoColor=58C7FF" alt="Email"/></a>
-<a href="https://linkedin.com/in/jesse-jacks"><img src="https://img.shields.io/badge/LINKEDIN-Connect-080D14?style=for-the-badge&logo=linkedin&logoColor=58C7FF" alt="LinkedIn"/></a>
+**Engineering ideas into intelligent, connected solutions.**
+
+[Portfolio](#featured-projects) ·
+[Experience](#professional-experience) ·
+[Technical Skills](#technical-arsenal) ·
+[Contact](#connect-with-me)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00C8FF&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
 ---
 
-## 👋 ABOUT ME
+## 👋 About Me
 
-<table>
-<tr>
-<td width="28%" align="center" valign="middle">
+<img align="right" width="230" src="./assets/profile.jpg" alt="Jesse Jacks PJ">
 
-<img src="assets/jesse-portrait.png" width="220" alt="Jesse Jacks PJ portrait"/>
+Hey there, I'm **Jesse Jacks PJ**, an Electronics and Communication Engineering student passionate about designing and developing practical engineering solutions.
 
-**JESSE JACKS PJ**
-
-<sub>Electronics & Communication Engineering</sub>
-
-</td>
-<td width="72%" valign="top">
-
-### Hey there, I'm Jesse.
-
-I'm an Electronics and Communication Engineering student passionate about **Embedded Systems, IoT, PCB Design, Industrial Automation, and Product Development**.
+My interests span **Embedded Systems, the Internet of Things (IoT), PCB Design, Industrial Automation, and Hardware–Software Integration**.
 
 I serve as the **Chief Operating Officer (COO) and a founding team member at Synaptronix Systems Pvt. Ltd.**, contributing to engineering development, project coordination, and technology initiatives.
 
-- Building intelligent embedded systems
-- Exploring IoT and industrial automation
-- Developing practical hardware and software solutions
-- Turning engineering concepts into working prototypes
+I enjoy working across the engineering lifecycle — from understanding a problem and designing a circuit to developing firmware, integrating hardware, and testing a functional prototype.
 
-**Role:** COO @ Synaptronix Systems  
-**Focus:** Embedded Systems · IoT · Automation  
-**Education:** B.E. Electronics & Communication Engineering  
-**Institution:** Jansons Institute of Technology
+**What drives me**
+- Building intelligent embedded systems.
+- Connecting sensors, controllers, and communication technologies.
+- Exploring real-world industrial automation.
+- Translating engineering concepts into practical prototypes.
+- Combining technical execution with project coordination.
+
+**Current focus:** Embedded intelligence · Connected devices · Engineering product development
+
+<br clear="right">
+
+---
+
+## ⚡ Technical Arsenal
+
+<table>
+<tr>
+<th align="left">EMBEDDED SYSTEMS</th>
+<th align="left">CONNECTED TECHNOLOGY</th>
+<th align="left">ENGINEERING</th>
+</tr>
+<tr>
+<td valign="top">
+
+- Embedded C
+- ESP32
+- STM32
+- Microcontroller Programming
+- Firmware Development
+
+</td>
+<td valign="top">
+
+- Internet of Things
+- Sensor Integration
+- Real-Time Monitoring
+- Device Communication
+- Hardware–Software Integration
+
+</td>
+<td valign="top">
+
+- PCB Design
+- Circuit Design
+- Hardware Prototyping
+- Industrial Automation
+- System Testing
 
 </td>
 </tr>
 </table>
 
----
+### Technology Stack
 
-## ⚡ TECHNICAL ARSENAL
-
-<div align="center">
-
-| EMBEDDED SYSTEMS | CONNECTED TECHNOLOGY | ENGINEERING |
-|:---:|:---:|:---:|
-| ![Embedded C](https://img.shields.io/badge/Embedded_C-101820?style=for-the-badge&logo=c&logoColor=58C7FF) | ![IoT](https://img.shields.io/badge/IoT-101820?style=for-the-badge&logo=arduino&logoColor=58C7FF) | ![PCB](https://img.shields.io/badge/PCB_Design-101820?style=for-the-badge&logoColor=58C7FF) |
-| ![ESP32](https://img.shields.io/badge/ESP32-101820?style=for-the-badge&logo=espressif&logoColor=58C7FF) | ![Sensors](https://img.shields.io/badge/Sensor_Integration-101820?style=for-the-badge&logoColor=58C7FF) | ![Automation](https://img.shields.io/badge/Industrial_Automation-101820?style=for-the-badge&logoColor=58C7FF) |
-| ![STM32](https://img.shields.io/badge/STM32-101820?style=for-the-badge&logo=stmicroelectronics&logoColor=58C7FF) | ![Monitoring](https://img.shields.io/badge/Real_Time_Monitoring-101820?style=for-the-badge&logoColor=58C7FF) | ![Prototyping](https://img.shields.io/badge/Hardware_Prototyping-101820?style=for-the-badge&logoColor=58C7FF) |
-
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Embedded_C-15202B?style=for-the-badge&logoColor=white" alt="Embedded C">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32">
+  <img src="https://img.shields.io/badge/IoT-00C8FF?style=for-the-badge&logoColor=white" alt="IoT">
+  <img src="https://img.shields.io/badge/PCB_Design-172033?style=for-the-badge&logoColor=white" alt="PCB Design">
+</p>
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## 🚀 Featured Projects
+
+Engineering concepts become meaningful when they solve practical problems. Here are six projects from my portfolio.
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-<img src="assets/agridry-pro.png" width="100%" alt="AgriDry Pro"/>
+<img src="./assets/agridry-pro.png" width="100%" alt="AgriDry Pro project">
 
 ### 🌾 AgriDry Pro
 
 **Smart Crop Drying System**
 
-IoT-enabled crop-drying solution for monitoring environmental conditions and automating the drying process.
+An IoT-enabled crop-drying concept for monitoring environmental conditions and automating the drying process.
 
-`IoT` `Automation`
+`IoT` `Sensors` `Automation`
 
-[Explore projects →](https://github.com/jessejackspj)
+[Explore Repository →](YOUR_AGRIDRY_REPOSITORY_URL)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-<img src="assets/ascas.png" width="100%" alt="ASCAS"/>
+<img src="./assets/ascas.png" width="100%" alt="ASCAS project">
 
 ### ◈ ASCAS
 
@@ -96,31 +141,31 @@ IoT-enabled crop-drying solution for monitoring environmental conditions and aut
 
 A sensor-driven curtain automation concept using ambient light conditions and connected control.
 
-`Sensors` `IoT`
+`Sensors` `IoT` `Automation`
 
-[Explore projects →](https://github.com/jessejackspj)
+[Explore Repository →](YOUR_ASCAS_REPOSITORY_URL)
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="assets/smart-water.png" width="100%" alt="Smart Water System"/>
+<img src="./assets/smart-water-system.png" width="100%" alt="Smart Water System project">
 
 ### 💧 Smart Water System
 
 **Water Level Monitoring**
 
-A water-monitoring and pump-control solution designed to support automated tank management.
+A water-monitoring and pump-control concept designed to support automated tank management.
 
-`Embedded` `Monitoring`
+`Embedded Systems` `Monitoring` `Control`
 
-[Explore projects →](https://github.com/jessejackspj)
+[Explore Repository →](YOUR_WATER_REPOSITORY_URL)
 
 </td>
-</tr>
-<tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-<img src="assets/securesense.png" width="100%" alt="SecureSense"/>
+<img src="./assets/securesense.png" width="100%" alt="SecureSense project">
 
 ### 🛡️ SecureSense
 
@@ -128,29 +173,31 @@ A water-monitoring and pump-control solution designed to support automated tank 
 
 A sensor-based security concept for detecting intrusion and supporting connected alerts.
 
-`IoT` `Security`
+`IoT` `Security` `Sensors`
 
-[Explore projects →](https://github.com/jessejackspj)
+[Explore Repository →](YOUR_SECURESENSE_REPOSITORY_URL)
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<img src="assets/med-track.png" width="100%" alt="Med Track"/>
+<img src="./assets/med-track.png" width="100%" alt="Med Track project">
 
 ### 🏥 Med Track
 
 **RTOS-Based Medical Monitoring**
 
-A healthcare monitoring concept focused on concurrent tasks, monitoring, and alerts.
+A healthcare-monitoring concept focused on concurrent tasks, monitoring, and alerts.
 
-`RTOS` `Healthcare`
+`RTOS` `Embedded Systems` `Healthcare`
 
-[Explore projects →](https://github.com/jessejackspj)
+[Explore Repository →](YOUR_MEDTRACK_REPOSITORY_URL)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-<img src="assets/gas-monitor.png" width="100%" alt="Intelligent Gas Monitor"/>
+<img src="./assets/intelligent-gas-monitor.png" width="100%" alt="Intelligent Gas Monitor project">
 
 ### 🏭 Intelligent Gas Monitor
 
@@ -158,28 +205,21 @@ A healthcare monitoring concept focused on concurrent tasks, monitoring, and ale
 
 A connected gas-monitoring concept for real-time environmental supervision and alerts.
 
-`IoT` `Safety`
+`IoT` `Safety` `Sensors`
 
-[Explore projects →](https://github.com/jessejackspj)
+[Explore Repository →](YOUR_GASMONITOR_REPOSITORY_URL)
 
 </td>
 </tr>
 </table>
 
+> **Project documentation standard:** Add the problem statement, system architecture, hardware components, firmware, circuit diagrams, testing results, and prototype photographs to each project repository wherever available.
+
 ---
 
-## 💼 PROFESSIONAL EXPERIENCE
+## 💼 Professional Experience
 
-<table>
-<tr>
-<td width="12%" align="center" valign="top">
-
-### 01
-
-</td>
-<td valign="top">
-
-### Chief Operating Officer (COO)
+### 01 · Chief Operating Officer (COO)
 
 **Synaptronix Systems Pvt. Ltd.** · 2026–Present
 
@@ -187,67 +227,29 @@ A connected gas-monitoring concept for real-time environmental supervision and a
 - Contribute to engineering product development and technical planning.
 - Collaborate with the founding team on technology initiatives.
 
-</td>
-</tr>
-<tr>
-<td align="center" valign="top">
-
-### 02
-
-</td>
-<td valign="top">
-
-### Embedded Systems & IoT Intern
+### 02 · Embedded Systems & IoT Intern
 
 **Technologics Global Pvt. Ltd., Bengaluru** · June–July 2026
 
-- Embedded C programming and microcontroller development.
-- Sensor interfacing and exposure to IoT applications.
+- Worked with Embedded C programming and microcontroller development.
+- Gained practical exposure to sensor interfacing and IoT applications.
 
-</td>
-</tr>
-<tr>
-<td align="center" valign="top">
-
-### 03
-
-</td>
-<td valign="top">
-
-### Industrial Trainee
+### 03 · Industrial Trainee
 
 **NLC India Limited, Neyveli** · June–July 2025
 
-- Exposure to telecommunication and communication systems.
-- Industrial networking infrastructure.
-
-</td>
-</tr>
-</table>
+- Gained exposure to telecommunication and communication systems.
+- Learned about industrial networking infrastructure.
 
 ---
 
-## 📊 GITHUB ANALYTICS
+## 🎓 Education & Certifications
 
-<div align="center">
+### B.E. — Electronics and Communication Engineering
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jessejackspj&show_icons=true&hide_border=true&bg_color=080D14&title_color=58C7FF&icon_color=58C7FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+**Jansons Institute of Technology** · 2023–2027
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessejackspj&layout=compact&hide_border=true&bg_color=080D14&title_color=58C7FF&text_color=C9D1D9" alt="Most used languages"/>
-
-<br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=jessejackspj&hide_border=true&background=080D14&ring=58C7FF&fire=58C7FF&currStreakLabel=58C7FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 🎓 EDUCATION & CERTIFICATIONS
-
-**B.E. — Electronics and Communication Engineering**  
-Jansons Institute of Technology · 2023–2027
-
+**Certifications and Training**
 - Embedded Systems — Technologics Global Pvt. Ltd.
 - IoT Hardware Analyst — NCVET Certified
 - PCB Design Certification
@@ -255,37 +257,75 @@ Jansons Institute of Technology · 2023–2027
 
 ---
 
-## ◉ ENGINEERING PHILOSOPHY
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=00C8FF&icon_color=00C8FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics">
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=00C8FF&text_color=C9D1D9" alt="Most used programming languages">
+</a>
+
+<br>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF" alt="GitHub contribution streak">
+
+</div>
+
+---
+
+## 🧠 Engineering Philosophy
 
 <div align="center">
 
 ```text
-             IDEAS
-               │
-               ▼
-       ENGINEERING DESIGN
-               │
-               ▼
-      HARDWARE + SOFTWARE
-               │
-               ▼
-       INTEGRATION & TESTING
-               │
-               ▼
-      INTELLIGENT SOLUTIONS
+       IDEAS
+         |
+         v
+  ENGINEERING DESIGN
+         |
+         v
+ HARDWARE + SOFTWARE
+         |
+         v
+ INTEGRATION & TESTING
+         |
+         v
+ INTELLIGENT SOLUTIONS
 ```
 
 *“Engineering is not just about creating technology.
 It's about creating solutions that matter.”*
 
-<img src="assets/footer-banner.png" width="100%" alt="Engineering innovation footer"/>
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
 
 ### LET'S BUILD SOMETHING MEANINGFUL.
 
-<a href="mailto:jessejackspj@gmail.com">Email</a> ·
-<a href="https://linkedin.com/in/jesse-jacks">LinkedIn</a> ·
-<a href="https://github.com/jessejackspj">GitHub</a>
+I'm interested in engineering collaboration, embedded systems, IoT development, and practical technology projects.
 
-<sub>EMBEDDED INTELLIGENCE · CONNECTED INNOVATION · ENGINEERING EXCELLENCE</sub>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-00C8FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<br><br>
+
+**EMBEDDED INTELLIGENCE · CONNECTED INNOVATION · ENGINEERING EXCELLENCE**
+
+<sub>Designed with curiosity. Built with engineering. Improved through iteration.</sub>
 
 </div>
